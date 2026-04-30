@@ -2,53 +2,80 @@
 End-to-End Business Analytics project covering BRD, SQL analysis, and power BI dashboard includes Jira, Confluence and Microsoft Visio
 ### Business Analyst End-to-End Project | 2026
 
-## Problem Statement
-ABC Corporation is facing 16.12% employee attrition
-— above industry average of 10-12%.
-237 out of 1,470 employees left the company.
+## Project Overview
+This project focuses on analyzing employee attrition and identifying the major factors affecting employee retention within the organization.
+
+The project covers the complete business analytics workflow starting from business understanding and requirement gathering to SQL analysis, Excel exploration, and Power BI dashboard development.
+
+--- 
 
 ## Objective
-Identify root causes of attrition and provide
-data-driven recommendations to reduce turnover
-by 5% within 6 months.
+The objective of this project is to analyze HR data, identify key reasons behind employee attrition, and generate insights that can support better business decisions and employee retention strategies.
+
+---
 
 ## Tools Used
-- MySQL Workbench — 20+ SQL queries
-- Microsoft Excel — Data exploration and pivot tables
-- Power BI — Interactive dashboard
-- JIRA — Agile project management
-- Confluence — Project documentation
-- MS Word — BRD, User Stories, Insights Summary
+- MySQL Workbench — SQL Analysis
+- Microsoft Excel — Data Exploration & Pivot Analysis
+- Power BI — Interactive Dashboard Development
+- JIRA — Task Tracking
+- Confluence — Documentation
+- MS Word — BRD & Insights Documentation
 
-## Key Findings
-- Sales department most affected — 92 exits
-- Overtime employees 3x likely to leave
-- Low salary band — 190 out of 237 exits
-- Young employees under 30 leaving most
-- 16.12% attrition vs 10-12% industry average
+---
 
-## Project Steps
-1. Created BRD — defined problem and requirements
-2. Wrote 5 User Stories in Agile format
-3. Explored data in Excel — pivot tables
-4. Imported data in MySQL — 20+ SQL queries
-5. Built Power BI dashboard — 10+ visuals
-6. Wrote Business Insights Summary
-7. Managed tasks using JIRA Scrum board
+## Analysis Performed
+- Overall Attrition Rate Analysis
+- Department-wise Attrition Analysis
+- Salary Impact on Attrition
+- Overtime Impact Analysis
+- Age Group Analysis
+- Job Role Analysis
+- Work-Life Balance Analysis
+- Promotion & Experience Analysis
 
-## Files in This Repository
-- hr.sql — 20+ SQL queries
-- BRD Employee Attrition Analysis.docx — BRD,
-  User Stories and Business Insights Summary
-- HR Attrition Analysis.csv — Raw dataset
-- dashboard.png — Power BI dashboard screenshot
+---
 
-## SQL Queries Cover
-- Overall attrition rate calculation
-- Department wise attrition analysis
-- Salary impact on attrition
-- Overtime impact analysis
-- Age group wise attrition
-- Job role wise attrition ranking
-- Work life balance analysis
-- Performance and promotion analysis
+## Key Insights
+- The overall attrition rate was 16.12%.
+- Sales department showed the highest attrition.
+- Employees working overtime were more likely to leave.
+- Higher attrition was observed in lower salary groups.
+- Younger employees showed a higher exit rate compared to senior employees.
+
+---
+
+## Project Workflow
+1. Understood the business problem and created BRD documentation.
+2. Defined business requirements and user stories.
+3. Explored and analyzed the dataset using Excel pivot tables.
+4. Performed SQL analysis using 20+ SQL queries.
+5. Built an interactive Power BI dashboard for visualization.
+6. Generated business insights and recommendations.
+
+---
+
+## Files Included
+- HR Attrition Dashboard.pbix
+- dashboard1.png
+- dashboard2.png
+- hr.sql
+- BRD Employee Attrition Analysis.docx
+- HR Attrition Analysis.csv
+
+---
+
+## Dashboard Access
+The Power BI dashboard file (.pbix) is included in this repository for download and exploration.
+
+Dashboard preview screenshots are also attached for quick viewing.
+
+---
+
+## Skills Demonstrated
+- Business Requirement Analysis
+- SQL Query Writing
+- Data Cleaning & Exploration
+- Data Visualization
+- Dashboard Development
+- Business Insights Generation
