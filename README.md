@@ -1,5 +1,5 @@
 # HR-Attrition-Analysis
-End-to-End Business Analytics project covering BRD, SQL analysis, and power BI dashboard includes Jira, Confluence and Microsoft Visio
+End-to-End Business Analytics project covering BRD, SQL analysis, and power BI dashboard includes Jira and Confluence,
 ### Business Analyst End-to-End Project | 2026
 
 ## Project Overview
