@@ -1,5 +1,5 @@
 # HR-Attrition-Analysis
-End-to-End Business Analytics project covering BRD, SQL analysis, and power BI dashboard includes Jira and Confluence,
+End-to-End Business Analytics project covering BRD, SQL analysis, and power BI dashboard includes Jira.
 ### Business Analyst End-to-End Project | 2026
 
 ## Project Overview
@@ -19,7 +19,6 @@ The objective of this project is to analyze HR data, identify key reasons behind
 - Microsoft Excel — Data Exploration & Pivot Analysis
 - Power BI — Interactive Dashboard Development
 - JIRA — Task Tracking
-- Confluence — Documentation
 - MS Word — BRD & Insights Documentation
 
 ---
@@ -79,3 +78,21 @@ Dashboard preview screenshots are also attached for quick viewing.
 - Data Visualization
 - Dashboard Development
 - Business Insights Generation
+
+---
+
+## Agile Project Managment (JIRA for Task Tracking)
+
+Project workflow was managed using Jira Scrum Board with backlog management, sprint planning, task tracking, and progress monitoring.
+
+Sprint Workflow
+
+- Sprint 1 — Requirement Gathering, Excel Exploration, MySQL Setup
+- Sprint 2 — SQL Analysis, KPI Development, Power BI Dashboard
+- Sprint 3 — Business Insights Summary, UAT, Final Delivery
+
+* Jira Activities:-
+
+- Created backlog and sprint planning
+- Assigned priorities based on business impact
+- Tracked progress using To Do, In Progress, and Done workflow
